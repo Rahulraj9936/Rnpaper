@@ -1,0 +1,5 @@
+export const telephone = require('./call/hdpi/telephone.png')
+export const pencil = require('./edit_cell/hdpi/pencil.png')
+export const Homee = require('./home/hdpi/home.png')
+export const settings = require('./settings_normal/settings_normal.png')
+export const Calllog = require('./address_norma/hdpi/Logg.png')
