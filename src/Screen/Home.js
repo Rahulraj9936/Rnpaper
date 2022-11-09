@@ -8,7 +8,11 @@ const Home = () => {
 const [showOption,setShowOption] = useState(false)
   const Data = [{
     id: 1,
+<<<<<<< HEAD
     name: 'Paras Jain', Status: 'Completed'
+=======
+    name: 'Paras Jai', Status: 'Completed'
+>>>>>>> 807a14e64cfc7ed83ad988e25427d6e715eb4a0a
   },
   {
     id: 2,
